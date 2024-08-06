@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayanth
 - 👀 I’m interested in Full stack web development, DevOps Engineering
-- 🌱 I’m currently a B.E CSE in St. Joseph's College Of Engineering
+- 🌱 I’m a Graduate in B.E from St. Joseph's College of Engineering 
 
 
 <!---
